@@ -1,16 +1,13 @@
-## Hi there 👋
+<big>Hi there 👋 I'm Badr, a DevSecOps engineer</big>
 
-<!--
-**badrelh/badrelh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<small>Graduated 2026 🎓</small>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./threat-radar.svg" alt="Animated radar of my DevSecOps skills" width="100%" />
+
+
+
+<p>Contact me via <a href="https://www.linkedin.com/in/badr-el-habbassi-1862522b7">LinkedIn</a></p>
+
+</div>

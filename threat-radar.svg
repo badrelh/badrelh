@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Radar animé de mes compétences DevSecOps : un balayage fait apparaître Azure, Kubernetes, Terraform, Docker, Ansible, Falco, Trivy, Vault, Python et CTI">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#0d1730"/></linearGradient>
+<radialGradient id="disc" cx="225" cy="190" r="150" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0f2a3a"/><stop offset="0.75" stop-color="#0a1a2b"/><stop offset="1" stop-color="#08121f"/></radialGradient>
+<linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7fe3ff"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="clip"><rect width="900" height="380" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="900" height="380" fill="url(#bg)"/>
+<circle cx="583.43" cy="34.37" r="1.2" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="331.27" cy="29.11" r="1.2" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="41.15" cy="165.85" r="0.8" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="738.94" cy="53.06" r="0.8" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="562.65" cy="352.97" r="1.2" fill="#7fe3ff"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="51.84" cy="88.47" r="1.2" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="729.46" cy="73.78" r="1.2" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="572.8" cy="143.55" r="1.2" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="63.51" cy="29.69" r="0.8" fill="#7fe3ff"><animate attributeName="opacity" values="0.35;0.05;0.35" dur="4.1s" repeatCount="indefinite"/></circle>
+<circle cx="478.04" cy="290.91" r="1" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="824.32" cy="139.62" r="0.8" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="625.91" cy="96.85" r="1.2" fill="#7fe3ff" opacity="0.35"/>
+<circle cx="472.27" cy="326.55" r="1.2" fill="#7fe3ff" opacity="0.35"/>
+<circle cx="262.54" cy="364.78" r="0.8" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="377.62" cy="283.6" r="0.8" fill="#7fe3ff"><animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="42.66" cy="251.23" r="1.2" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="705.56" cy="305.88" r="1" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="712.45" cy="33.03" r="0.8" fill="#7fe3ff" opacity="0.35"/>
+<circle cx="427.1" cy="249.75" r="0.8" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="628.12" cy="243.55" r="1.2" fill="#7fe3ff"><animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="641.5" cy="330.88" r="1" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="839.53" cy="137.39" r="1.2" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="444.42" cy="87.43" r="1" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="660.71" cy="152.83" r="1" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="632.45" cy="367.07" r="1.2" fill="#7fe3ff" opacity="0.35"/>
+<circle cx="854.63" cy="62.94" r="0.8" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="436.71" cy="222.44" r="1" fill="#7fe3ff" opacity="0.35"/>
+<circle cx="11.62" cy="160.5" r="1" fill="#7fe3ff"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="4.1s" repeatCount="indefinite"/></circle>
+<circle cx="767.53" cy="353.88" r="1.2" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="661.97" cy="174.22" r="1.2" fill="#7fe3ff" opacity="0.5"/>
+<circle cx="63.03" cy="32.51" r="0.8" fill="#7fe3ff"><animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="482.37" cy="353.42" r="1.2" fill="#7fe3ff" opacity="0.25"/>
+<circle cx="225" cy="190" r="164" fill="none" stroke="#36bcf7" stroke-opacity="0.12" stroke-width="10"/>
+<circle cx="225" cy="190" r="150" fill="url(#disc)" stroke="#2a6f8f" stroke-width="1.5"/>
+<circle cx="225" cy="190" r="50" fill="none" stroke="#1f5470" stroke-width="1" stroke-dasharray="3 5"/>
+<circle cx="225" cy="190" r="100" fill="none" stroke="#1f5470" stroke-width="1" stroke-dasharray="3 5"/>
+<line x1="75" y1="190" x2="375" y2="190" stroke="#1f5470" stroke-width="1"/>
+<line x1="225" y1="40" x2="225" y2="340" stroke="#1f5470" stroke-width="1"/>
+<line x1="375" y1="190" x2="366" y2="190" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="372.72" y1="216.05" x2="367.8" y2="215.18" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="365.95" y1="241.3" x2="361.26" y2="239.59" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="354.9" y1="265" x2="347.11" y2="260.5" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="339.91" y1="286.42" x2="336.08" y2="283.2" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="321.42" y1="304.91" x2="318.2" y2="301.08" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="300" y1="319.9" x2="295.5" y2="312.11" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="276.3" y1="330.95" x2="274.59" y2="326.26" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="251.05" y1="337.72" x2="250.18" y2="332.8" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="225" y1="340" x2="225" y2="331" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="198.95" y1="337.72" x2="199.82" y2="332.8" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="173.7" y1="330.95" x2="175.41" y2="326.26" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="150" y1="319.9" x2="154.5" y2="312.11" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="128.58" y1="304.91" x2="131.8" y2="301.08" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="110.09" y1="286.42" x2="113.92" y2="283.2" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="95.1" y1="265" x2="102.89" y2="260.5" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="84.05" y1="241.3" x2="88.74" y2="239.59" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="77.28" y1="216.05" x2="82.2" y2="215.18" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="75" y1="190" x2="84" y2="190" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="77.28" y1="163.95" x2="82.2" y2="164.82" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="84.05" y1="138.7" x2="88.74" y2="140.41" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="95.1" y1="115" x2="102.89" y2="119.5" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="110.09" y1="93.58" x2="113.92" y2="96.8" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="128.58" y1="75.09" x2="131.8" y2="78.92" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="150" y1="60.1" x2="154.5" y2="67.89" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="173.7" y1="49.05" x2="175.41" y2="53.74" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="198.95" y1="42.28" x2="199.82" y2="47.2" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="225" y1="40" x2="225" y2="49" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="251.05" y1="42.28" x2="250.18" y2="47.2" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="276.3" y1="49.05" x2="274.59" y2="53.74" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="300" y1="60.1" x2="295.5" y2="67.89" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="321.42" y1="75.09" x2="318.2" y2="78.92" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="339.91" y1="93.58" x2="336.08" y2="96.8" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="354.9" y1="115" x2="347.11" y2="119.5" stroke="#3a8fb0" stroke-width="1.4"/>
+<line x1="365.95" y1="138.7" x2="361.26" y2="140.41" stroke="#3a8fb0" stroke-width="0.8"/>
+<line x1="372.72" y1="163.95" x2="367.8" y2="164.82" stroke="#3a8fb0" stroke-width="0.8"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 225 190" to="360 225 190" dur="8s" repeatCount="indefinite"/>
+<path d="M225 190 L375 190 A150 150 0 0 0 374.63 179.54 Z" fill="#36e6c1" fill-opacity="0.340"/>
+<path d="M225 190 L374.63 179.54 A150 150 0 0 0 373.54 169.12 Z" fill="#36e6c1" fill-opacity="0.305"/>
+<path d="M225 190 L373.54 169.12 A150 150 0 0 0 371.72 158.81 Z" fill="#36e6c1" fill-opacity="0.271"/>
+<path d="M225 190 L371.72 158.81 A150 150 0 0 0 369.19 148.65 Z" fill="#36e6c1" fill-opacity="0.239"/>
+<path d="M225 190 L369.19 148.65 A150 150 0 0 0 365.95 138.7 Z" fill="#36e6c1" fill-opacity="0.208"/>
+<path d="M225 190 L365.95 138.7 A150 150 0 0 0 362.03 128.99 Z" fill="#36e6c1" fill-opacity="0.180"/>
+<path d="M225 190 L362.03 128.99 A150 150 0 0 0 357.44 119.58 Z" fill="#36e6c1" fill-opacity="0.153"/>
+<path d="M225 190 L357.44 119.58 A150 150 0 0 0 352.21 110.51 Z" fill="#36e6c1" fill-opacity="0.128"/>
+<path d="M225 190 L352.21 110.51 A150 150 0 0 0 346.35 101.83 Z" fill="#36e6c1" fill-opacity="0.105"/>
+<path d="M225 190 L346.35 101.83 A150 150 0 0 0 339.91 93.58 Z" fill="#36e6c1" fill-opacity="0.083"/>
+<path d="M225 190 L339.91 93.58 A150 150 0 0 0 332.9 85.8 Z" fill="#36e6c1" fill-opacity="0.064"/>
+<path d="M225 190 L332.9 85.8 A150 150 0 0 0 325.37 78.53 Z" fill="#36e6c1" fill-opacity="0.047"/>
+<path d="M225 190 L325.37 78.53 A150 150 0 0 0 317.35 71.8 Z" fill="#36e6c1" fill-opacity="0.032"/>
+<path d="M225 190 L317.35 71.8 A150 150 0 0 0 308.88 65.64 Z" fill="#36e6c1" fill-opacity="0.020"/>
+<path d="M225 190 L308.88 65.64 A150 150 0 0 0 300 60.1 Z" fill="#36e6c1" fill-opacity="0.010"/>
+<path d="M225 190 L300 60.1 A150 150 0 0 0 290.76 55.18 Z" fill="#36e6c1" fill-opacity="0.003"/>
+<line x1="225" y1="190" x2="375" y2="190" stroke="#7ffbe0" stroke-width="2" filter="url(#glow)"/>
+</g>
+<circle cx="225" cy="190" r="5" fill="#7ffbe0" filter="url(#glow)"/>
+<circle cx="225" cy="190" r="10" fill="none" stroke="#7ffbe0" stroke-opacity="0.5"/>
+<circle cx="313.45" cy="218.74" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.0490;0.0500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="313.45" cy="218.74" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.0500;0.1500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.0500;0.1500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="324.45" y="222.74" text-anchor="start" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Azure<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.0490;0.0500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="262.03" cy="240.97" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.1490;0.1500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="262.03" cy="240.97" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.1500;0.2500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.1500;0.2500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="273.03" y="244.97" text-anchor="start" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Terraform<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.1490;0.1500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="225" cy="301" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.2490;0.2500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="301" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.2500;0.3500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.2500;0.3500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="236" y="305" text-anchor="start" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Docker<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.2490;0.2500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="150.94" cy="291.94" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.3490;0.3500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="150.94" cy="291.94" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.3500;0.4500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.3500;0.4500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="139.94" y="295.94" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Falco<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.3490;0.3500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="153.67" cy="213.18" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.4490;0.4500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="153.67" cy="213.18" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.4500;0.5500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.4500;0.5500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="142.67" y="217.18" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Python<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.4490;0.4500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="122.29" cy="156.63" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.5490;0.5500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="122.29" cy="156.63" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.5500;0.6500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.5500;0.6500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="111.29" y="160.63" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">CTI<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.5490;0.5500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="195.02" cy="148.74" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.6490;0.6500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="195.02" cy="148.74" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.6500;0.7500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.6500;0.7500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="184.02" y="152.74" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Vault<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.6490;0.6500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="225" cy="70" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.7490;0.7500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="225" cy="70" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.7500;0.8500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.7500;0.8500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="214" y="74" text-anchor="end" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Trivy<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.7490;0.7500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="265.56" cy="134.18" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.8490;0.8500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="265.56" cy="134.18" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.8500;0.9500;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.8500;0.9500;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="276.56" y="138.18" text-anchor="start" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Ansible<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.8490;0.8500;1" dur="8s" repeatCount="indefinite"/></text>
+<circle cx="282.06" cy="171.46" r="4.5" fill="#ffd166" filter="url(#glow)" opacity="0.2"><animate attributeName="opacity" values="0.2;0.2;1;0.2" keyTimes="0;0.9490;0.9500;1" dur="8s" repeatCount="indefinite"/></circle>
+<circle cx="282.06" cy="171.46" r="4" fill="none" stroke="#ffd166" stroke-width="1.5" opacity="0"><animate attributeName="r" values="4;4;22;22" keyTimes="0;0.9500;0.9990;1" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0;0" keyTimes="0;0.9500;0.9990;1" dur="8s" repeatCount="indefinite"/></circle>
+<text x="293.06" y="175.46" text-anchor="start" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" fill="#ffe9ad" opacity="0.25">Kubernetes<animate attributeName="opacity" values="0.25;0.25;1;0.25" keyTimes="0;0.9490;0.9500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="470" y="118" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="3" fill="#36e6c1">// SKILLS RADAR</text>
+<circle cx="456" cy="114" r="3.5" fill="#36e6c1"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="470" y="170" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="url(#nameG)">Badr EL HABBASSI</text>
+<text x="470" y="204" font-family="Inter,'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="18" fill="#9fb3c8">Ingénieur DevSecOps</text>
+<line x1="470" y1="226" x2="590" y2="226" stroke="#36bcf7" stroke-opacity="0.6" stroke-width="2"/>
+<text x="470" y="254" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#cfe3f5">Intérêts : cybersécurité · cloud · Devops </text>
+<text x="470" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#5b7a96">› stack :</text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Azure<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0490;0.0500;0.1490;0.1500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Terraform<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1490;0.1500;0.2490;0.2500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Docker<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2490;0.2500;0.3490;0.3500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Falco<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3490;0.3500;0.4490;0.4500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Python<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4490;0.4500;0.5490;0.5500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">CTI<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5490;0.5500;0.6490;0.6500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Vault<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6490;0.6500;0.7490;0.7500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Trivy<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7490;0.7500;0.8490;0.8500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Ansible<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8490;0.8500;0.9490;0.9500;1" dur="8s" repeatCount="indefinite"/></text>
+<text x="568" y="302" font-family="'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffd166" opacity="0">Kubernetes<animate attributeName="opacity" values="1;1;0;0;1;1" keyTimes="0;0.0490;0.0500;0.9490;0.9500;1" dur="8s" repeatCount="indefinite"/></text>
+<rect x="0.5" y="0.5" width="899" height="379" rx="18" fill="none" stroke="#16304a"/>
+</g></svg>
